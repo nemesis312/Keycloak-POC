@@ -1,0 +1,10 @@
+<div class="container">
+    <h1>Bienvenido al Dashboard 🎉</h1>
+
+    <div *ngIf="user">
+      <p><strong>Nombre:</strong> {{ user.name }}</p>
+      <p><strong>Email:</strong> {{ user.email }}</p>
+    </div>
+
+    <button (click)="logout()">Cerrar sesión</button>
+  </div>

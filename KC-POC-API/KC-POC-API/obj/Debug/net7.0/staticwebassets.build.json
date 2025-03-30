@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GCA8Z09D9809O+KkaZdzZOjhGgeTASGJ4ChezEqwnII=",
+  "Source": "KC-POC-API",
+  "BasePath": "_content/KC-POC-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
